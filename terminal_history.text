@@ -1,0 +1,50 @@
+  464  git status
+  465  git add
+  466  git add README.md "this is the modified repo"
+  467  git status
+  468  git add README.md "to update what will be committed"
+  469  git commit -a README.md " this modified Readme file"
+  470  git status
+  471  git add README.md 
+  472  git stastus
+  473  git status
+  474  git push
+  475  git commit a- README.md "this  is the modified file"
+  476  git add README.md 
+  477  git commit -m "this is the modified file"
+  478  git push
+  479  git push '/c/Users/oziro/Downloads/Starter_Code (1)/Starter_Code/loan_qualifier_app'
+  480  pwd
+  481  ls
+  482  cd Challenge_fintec_columbia/
+  483  ls
+  484  git status
+  485  code README.md 
+  486  code
+  487  pwd
+  488  conda activate dev
+  489  jupyterlab
+  490  jupyter lab
+  491  jupyter
+  492  anaconda
+  493  Downloads/
+  494  ls
+  495  cd Starter_Code 
+  496  cd cu-virt-fin-pt-09-2021-u-b/
+  497  ls
+  498  cd README.md 
+  499  cd 03-Financial-Analysis-Pandas/
+  500  ls
+  501  pwd
+  502  ls
+  503  cd Challenge_fintec_columbia/
+  504  ls
+  505  git status
+  506  code README.md 
+  507  git clone https://github.com/Leblanke93/challenge-2-columbia-fintech.git
+  508  pwd
+  509  ls
+  510  cd challenge-2-columbia-fintech/
+  511  ls
+  512  code README.md 
+  513  history 50 > terminal_history.text
